@@ -1,5 +1,10 @@
 # 🏗️ Smart Steel, Smart Minds – Rourkela Edition
 
+<p align="center">
+  <img src="banner_rourkela_ai.png" alt="Smart Steel Smart Minds Banner" width="100%">
+</p>
+
+
 This is a simple Python + AI learning folder for Class 9 students (CBSE AI Code 417) built around **Rourkela Steel Plant (RSP)** and the role of steel in our lives.
 
 ## 🚀 How to Run
